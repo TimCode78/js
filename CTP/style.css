@@ -1,0 +1,46 @@
+.bestof{
+    border : 3px solid grey ;
+    background-color: yellow;
+    font-size: 200%;
+    margin: 10px;
+    padding: 5px;
+}
+
+#rouge {
+    background-color: red;
+    border : 3px solid black ;
+    height: 80px;
+    padding : 5px ;
+
+    
+}
+
+#rouge p{
+    margin-top: 20px;
+    font-size: 120%;
+}
+
+#jaune p{
+    margin-top: 20px;
+    font-size: 120%;
+}
+
+#jaune {
+    background-color: yellow;
+    border : 3px solid black ;
+    height: 80px;
+    padding : 5px ;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+    float : left ;
+    margin-right: 5px;
+}
+
+.choix{
+    background-color: rgb(230, 226, 226);
+    border : 2px solid black ;
+    width: 100px;
+}
